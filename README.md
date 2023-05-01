@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>oh yes, i'm make a own page style for say what useless. Hi, by the way
+<p>oh yes, i'm make a own page style for say what I'am <i>useless<i>. Hi, by the way</p>
 <!--
 **WaterMelonyOcO/WaterMelonyOcO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
